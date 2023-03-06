@@ -1,0 +1,16 @@
+.menu__item{
+    width: 100%;
+    max-width: 500px;
+    box-shadow: 0 0 16px #00000073;
+    display: flex;
+    gap: 16px;
+}
+.menu__item img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+}
+.sample{
+    display: none;
+}
